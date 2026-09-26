@@ -1,0 +1,19 @@
+{
+  "userinfo": [
+    {
+      "username": "avdhesh",
+      "age": "67",
+      "contact": "jkllh;ow",
+      "city": "mokma",
+      "id": "cMG6clmCtxE"
+    },
+    {
+      "username": "shyam",
+      "age": "23",
+      "contact": "420958p0-",
+      "city": "patna",
+      "id": "M2fbWwZ_evk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

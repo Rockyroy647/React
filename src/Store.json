@@ -1,0 +1,26 @@
+{
+"user information":[
+{
+    "id": "1",
+    "name": "travuza",
+    "age": "21",
+    "city": "patna"
+},{
+    "id": "2",
+    "name": "baba Absek",
+    "age": "89",
+    "city": "orangabad"
+},{
+    "id": "3",
+    "name": "Ankit",
+    "age": "19",
+    "city": "drabhange"
+},{
+    "id": "4",
+    "name": "saurab",
+    "age": "32",
+    "city": "samastipur"
+}
+]
+
+}
