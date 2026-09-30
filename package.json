@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "student",
+=======
+  "name": "react",
+>>>>>>> b35adefc21cf5e1eacb3cea5191aeef77e137c03
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,16 +14,27 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@tailwindcss/vite": "^4.3.3",
+>>>>>>> b35adefc21cf5e1eacb3cea5191aeef77e137c03
     "axios": "^1.20.0",
     "json-server": "^1.0.0-beta.15",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
+<<<<<<< HEAD
     "react-router-dom": "^7.18.4",
     "react-toastify": "^11.1.0"
+=======
+    "react-router-dom": "^7.18.3",
+    "react-toastify": "^11.1.0",
+    "tailwindcss": "^4.3.3"
+>>>>>>> b35adefc21cf5e1eacb3cea5191aeef77e137c03
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/react": "^19.2.18",
+<<<<<<< HEAD
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
     "eslint": "^10.10.0",
@@ -27,5 +42,14 @@
     "eslint-plugin-react-refresh": "^0.5.6",
     "globals": "^17.12.0",
     "vite": "^8.3.0"
+=======
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "eslint": "^10.9.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.4",
+    "globals": "^17.11.0",
+    "vite": "^8.2.2"
+>>>>>>> b35adefc21cf5e1eacb3cea5191aeef77e137c03
   }
 }

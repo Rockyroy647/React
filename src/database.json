@@ -1,6 +1,7 @@
 {
   "userinfo": [
     {
+<<<<<<< HEAD
       "username": "ROCKY ROY bhai",
       "age": "12",
       "city": "patna",
@@ -13,6 +14,20 @@
       "city": "patna",
       "contact": "31318791",
       "id": "6gan1MO8mX0"
+=======
+      "username": "avdhesh",
+      "age": "67",
+      "contact": "jkllh;ow",
+      "city": "mokma",
+      "id": "cMG6clmCtxE"
+    },
+    {
+      "username": "shyam",
+      "age": "23",
+      "contact": "420958p0-",
+      "city": "patna",
+      "id": "M2fbWwZ_evk"
+>>>>>>> b35adefc21cf5e1eacb3cea5191aeef77e137c03
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
